@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+.title{
+  justify-content: center;
+  padding-left: calc(50% - 5rem);
+  color: purple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
